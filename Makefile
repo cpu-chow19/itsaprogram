@@ -10,3 +10,9 @@ hello: hello.c
 
 clean:
 	rm -f bin/hello
+
+check:
+	/bin/true
+
+distcheck:
+	/bin/true
